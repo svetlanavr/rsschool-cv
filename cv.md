@@ -14,7 +14,7 @@
 
 ## Briefly About Myself:
 
-Хочу попробовать себя в роли JavaScript разработчика
+I want to try myself as a JavaScript developer
 
 ## Skills
 
